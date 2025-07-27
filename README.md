@@ -13,8 +13,10 @@
 - 💓 Passionate about self-written code generation and development process automation.
 - 📫 Contacts: [Telegram](https://t.me/TheMostAverageHedgehog)
 
-## 🏆 Codewars Stats
+## 💥 Codewars Stats
 
 [![codewars](https://www.codewars.com/users/BeannyWinny/badges/large)](https://www.codewars.com/users/BeannyWinny)
+
+## :suspect: GitHub Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gstukunov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
