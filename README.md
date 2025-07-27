@@ -14,4 +14,5 @@
 - 📫 Contacts: [Telegram](https://t.me/TheMostAverageHedgehog)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gstukunov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![codewars](https://www.codewars.com/users/BeannyWinny/large)](https://www.codewars.com/users/username)
+
+[![Codewars](https://www.codewars.com/users/BeannyWinny/badges/large)](https://www.codewars.com/users/BeannyWinny)
