@@ -15,7 +15,7 @@
 
 ## 💥 Codewars Stats
 
-[![codewars](https://www.codewars.com/users/BeannyWinny/badges/large)](https://www.codewars.com/users/BeannyWinny)
+[![codewars](https://www.codewars.com/users/gstukunov/badges/large)](https://www.codewars.com/users/gstukunov)
 
 ## :suspect: GitHub Languages
 
